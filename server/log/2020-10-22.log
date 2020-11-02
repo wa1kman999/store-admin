@@ -1,0 +1,38 @@
+[GIN-VUE-ADMIN]2020/10/22 - 21:07:08.702	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2020/10/22 - 21:07:08.704	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2020/10/22 - 21:07:08.704	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2020/10/22 - 21:07:08.704	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2020/10/22 - 21:07:08.705	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2020/10/22 - 21:07:08.707	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:15:11.612	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:15:35.133	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:15:44.102	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:16:37.304	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:16:51.746	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:01.518	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:01.519	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:01.519	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:01.520	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:01.520	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:01.521	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:15.565	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:40.927	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:45.274	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:52.589	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:24:55.622	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:27:02.926	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:37.134	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:37.135	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:37.135	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:37.135	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:37.135	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:37.136	[34minfo[0m	server run success on 	{"address": ":8888"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:30:53.283	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:31:01.794	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:37:30.481	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:37:59.470	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:39:17.561	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:39:21.851	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:39:45.283	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:40:40.653	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
+[GIN-VUE-ADMIN]2020/10/22 - 21:41:00.874	[31merror[0m	create operation record error:	{"err": "Error 1406: Data too long for column 'body' at row 1"}
