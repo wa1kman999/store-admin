@@ -2,7 +2,7 @@
 
 # jwt configuration
 jwt:
-  signing-key: 'qmPlus'
+  signing-key: 'qmPlus+++'
 
 # zap logger configuration
 zap:
